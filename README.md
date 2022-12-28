@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @abdul0398
-- 👀 I’m interested in building new things
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
--   you reach me on abdulrkhan570@gmail.com
+- 👋 Hi, I’m Abdul Rehman Khan
+- 👀 I’m interested in building new things.
+-   you reach me on abdul77789@gmail.com
 
 <!---
 abdul0398/abdul0398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
