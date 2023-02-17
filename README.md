@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **abdul77789@gmail.com**
 
+- ⚡ Solved **500+ problems on Data Structure and Algorithm**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/abdul0398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdul0398" height="30" width="40" /></a>
