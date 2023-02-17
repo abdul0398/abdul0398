@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **abdul77789@gmail.com**
 
-- ⚡ Solved **500+ problems on Data Structure and Algorithm**
+- ⚡ Solved **500+** problems on Data Structure and Algorithm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
