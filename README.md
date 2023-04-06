@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
 <h3 align="center">Full Stack Web developer</h3>
 
-- 💬 Ask me about **Data Structures & Algorithm**
+- 💬 Ask me about **Data Structures & Algorithm** && **Full Stack Web Developement**
 
 - 📫 How to reach me **abdul77789@gmail.com**
 
